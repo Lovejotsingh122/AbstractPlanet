@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\Assignment_AbstractPlanet\Assignment_AbstractPlanet\bin\Debug\Assignment_AbstractPlanet.exe.config
+C:\Users\PC\Desktop\Assignment_AbstractPlanet\Assignment_AbstractPlanet\bin\Debug\Assignment_AbstractPlanet.exe
+C:\Users\PC\Desktop\Assignment_AbstractPlanet\Assignment_AbstractPlanet\bin\Debug\Assignment_AbstractPlanet.pdb
+C:\Users\PC\Desktop\Assignment_AbstractPlanet\Assignment_AbstractPlanet\obj\Debug\Assignment_AbstractPlanet.exe
+C:\Users\PC\Desktop\Assignment_AbstractPlanet\Assignment_AbstractPlanet\obj\Debug\Assignment_AbstractPlanet.pdb
